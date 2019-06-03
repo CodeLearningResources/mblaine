@@ -1,0 +1,241 @@
+Windows PowerShell
+Copyright (C) 2016 Microsoft Corporation. All rights reserved.
+
+PS C:\Users\GBTC440003ur> dir
+
+
+    Directory: C:\Users\GBTC440003ur
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        1/10/2018   2:25 PM                .anaconda
+d-----        1/10/2018   4:48 PM                .android
+d-----        5/28/2019   5:37 PM                .conda
+d-----        3/29/2018  10:06 AM                .config
+d-----        1/10/2018  12:16 PM                .eclipse
+d-----        1/10/2018  11:00 AM                .idlerc
+d-----        2/21/2018   3:28 PM                .IntelliJIdea2017.3
+d-----        5/28/2019  11:37 AM                .ipynb_checkpoints
+d-----        5/28/2019  12:01 PM                .ipython
+d-----        5/29/2019   9:23 AM                .jupyter
+d-----        5/29/2019   4:40 PM                .matplotlib
+d-----        1/16/2018  10:47 AM                .p2
+d-----        1/10/2018  11:29 AM                .PyCharm2017.3
+d-----        1/10/2018  12:16 PM                .tooling
+d-----        1/17/2018  10:04 AM                .WebStorm2017.3
+d-----        5/31/2019   6:00 PM                1-Week_MayDatabootcamp
+d-r---        5/23/2019   3:17 PM                Contacts
+d-r---         6/3/2019  10:15 AM                Desktop
+d-r---         6/3/2019  10:11 AM                Documents
+d-r---         6/3/2019  10:15 AM                Downloads
+d-r---        5/23/2019   3:17 PM                Favorites
+d-----        2/21/2018   3:37 PM                IdeaProjects
+d-r---        5/23/2019   3:17 PM                Links
+d-r---        5/23/2019   3:17 PM                Music
+d-r---         5/1/2017  12:32 PM                OneDrive
+d-r---        5/23/2019   3:18 PM                Pictures
+d-r---        5/23/2019   3:17 PM                Saved Games
+d-r---        5/23/2019   3:17 PM                Searches
+d-r---        5/23/2019   3:17 PM                Videos
+-a----        1/10/2018   5:08 PM              9 .bash_history
+-a----        5/31/2019   9:06 AM             43 .condarc
+-a----         6/3/2019  10:16 AM            204 .gitconfig
+
+
+PS C:\Users\GBTC440003ur> cd .\Documents\
+PS C:\Users\GBTC440003ur\Documents> dir
+
+
+    Directory: C:\Users\GBTC440003ur\Documents
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----        5/28/2019   5:50 PM                Custom Office Templates
+d---s-         5/8/2017  11:19 AM                My Shapes
+d-----        5/23/2019   3:47 PM                My Tableau Repository
+-a----        1/10/2018  10:31 AM              7 .Rhistory
+-a----         6/3/2019  10:10 AM             24 mblaine1_test_github_file1.txt
+-a----         6/3/2019  10:11 AM             44 mblaine1_test_github_file2.txt
+
+
+PS C:\Users\GBTC440003ur\Documents> mkdir AdvDataAnalytics
+
+
+    Directory: C:\Users\GBTC440003ur\Documents
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         6/3/2019  10:19 AM                AdvDataAnalytics
+
+
+PS C:\Users\GBTC440003ur\Documents> dir
+
+
+    Directory: C:\Users\GBTC440003ur\Documents
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----         6/3/2019  10:19 AM                AdvDataAnalytics
+d-----        5/28/2019   5:50 PM                Custom Office Templates
+d---s-         5/8/2017  11:19 AM                My Shapes
+d-----        5/23/2019   3:47 PM                My Tableau Repository
+-a----        1/10/2018  10:31 AM              7 .Rhistory
+-a----         6/3/2019  10:10 AM             24 mblaine1_test_github_file1.txt
+-a----         6/3/2019  10:11 AM             44 mblaine1_test_github_file2.txt
+
+
+PS C:\Users\GBTC440003ur\Documents> cd .\AdvDataAnalytics\
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> dir
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git init
+Initialized empty Git repository in C:/Users/GBTC440003ur/Documents/AdvDataAnalytics/.git/
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git config --global user.name "pegblaine"
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git config --global user.name mblaine1@montgomerycollege.edu
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> dir
+
+
+    Directory: C:\Users\GBTC440003ur\Documents\AdvDataAnalytics
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         6/3/2019  10:10 AM             24 mblaine1_test_github_file1.txt
+-a----         6/3/2019  10:11 AM             44 mblaine1_test_github_file2.txt
+
+
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote add origon https://github.com/pegblaine/advanced_data_analysis
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git donfig -l
+git: 'donfig' is not a git command. See 'git --help'.
+
+The most similar command is
+        config
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git config -l
+core.symlinks=false
+core.autocrlf=true
+core.fscache=true
+color.diff=auto
+color.status=auto
+color.branch=auto
+color.interactive=true
+help.format=html
+rebase.autosquash=true
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+http.sslbackend=openssl
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.required=true
+filter.lfs.process=git-lfs filter-process
+credential.helper=manager
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+user.name=mblaine1@montgomerycollege.edu
+user.email=51327306+pegblaine@users.noreply.github.com
+core.repositoryformatversion=0
+core.filemode=false
+core.bare=false
+core.logallrefupdates=true
+core.symlinks=false
+core.ignorecase=true
+remote.origon.url=https://github.com/pegblaine/advanced_data_analysis
+remote.origon.fetch=+refs/heads/*:refs/remotes/origon/*
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git add .
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Added github first files"
+[master (root-commit) 3507999] Added github first files
+ 2 files changed, 2 insertions(+)
+ create mode 100644 mblaine1_test_github_file1.txt
+ create mode 100644 mblaine1_test_github_file2.txt
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git add .
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Tried again"
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git add .
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Tried again"
+[master 1da4f39] Tried again
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> dir
+
+
+    Directory: C:\Users\GBTC440003ur\Documents\AdvDataAnalytics
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         6/3/2019  10:48 AM             43 mblaine1_test_github_file1.txt
+-a----         6/3/2019  10:11 AM             44 mblaine1_test_github_file2.txt
+
+
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Added github first files"
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Tried again"
+On branch master
+Changes not staged for commit:
+        modified:   mblaine1_test_github_file1.txt
+
+no changes added to commit
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git add .
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git commit -m "Tried again"
+[master fcca78d] Tried again
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote add origon https://github.com/pegblaine/adv_data_analysis
+fatal: remote origon already exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git push -u origin master
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git status
+On branch master
+nothing to commit, working tree clean
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> dir
+
+
+    Directory: C:\Users\GBTC440003ur\Documents\AdvDataAnalytics
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+-a----         6/3/2019  10:54 AM             62 mblaine1_test_github_file1.txt
+-a----         6/3/2019  10:11 AM             44 mblaine1_test_github_file2.txt
+
+
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote -v
+origon  https://github.com/pegblaine/advanced_data_analysis (fetch)
+origon  https://github.com/pegblaine/advanced_data_analysis (push)
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote set-url origin https://github.com/pegblaine/adv_data_analysis
+fatal: No such remote 'origin'
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote add origin https://github.com/pegblaine/adv_data_analysis
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics>
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote add origin https://github.com/pegblaine/advanced_data_analysis
+fatal: remote origin already exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics> git remote add origin https://github.com/pegblaine/advanced_data_analytics
+fatal: remote origin already exists.
+PS C:\Users\GBTC440003ur\Documents\AdvDataAnalytics>
+
+
+Originally spelled
