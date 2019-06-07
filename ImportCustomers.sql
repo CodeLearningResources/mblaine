@@ -1,6 +1,6 @@
 -- Creating CUSTOMERS database and tables from customers.csv
 -- Only need to run this if you start over
-DROP DATABASE CUSTOMERS;
+-- DROP DATABASE CUSTOMERS;
 
 -- Creare database
 CREATE DATABASE CUSTOMERS;
@@ -60,13 +60,14 @@ COMPANY t where t.COMPANY=c.COMPANY);
 
 -- query to check your data
 select c.COMPANY_ID,c.COMPANY,t.COMPANY_ID,t.COMPANY from
-CUSTOMER c inner join COMPANY t on c.CompanyID=t.COMPANY_ID;
+CUSTOMER c inner join COMPANY t on c.COMPANY_ID=t.COMPANY_ID;
 
 -- remove the company column from the customers table. It is no longer needed
 alter table CUSTOMER drop column COMPANY;
 
 -- also remove fullname, we don't need calculated columns. They're a maintenance headache
-alter table CUSTOMER drop column fullname;
+-- fullname calumn no longer exists
+-- alter table CUSTOMER drop column fullname;
 
 -- You can generate fullname more efficiently as:
 select CONCAT(`FirstName`,' ',`LastName`) as `Full Name` from CUSTOMER;
