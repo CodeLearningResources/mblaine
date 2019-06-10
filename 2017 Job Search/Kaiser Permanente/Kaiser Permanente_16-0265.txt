@@ -1,0 +1,57 @@
+2/21/17
+
+Kaiser Permanente
+
+Job Details 
+
+
+Requisition Number	16-0265
+Post Date	1/24/2017
+Title	Data Analyst
+City	Rockville
+State	MD
+Description	BASIC FUNCTIONS
+Provide analytical and consulting support to MAPMG Leadership in making strategic data-related decisions by analyzing, manipulating, tracking, internally managing and reporting data. This may entail working with our data systems to pull information using SQL, analyzing the information in Excel or other tools, and presenting the data to various leaders and/or staff within the organization.
+
+RESPONSIBILITIES
+* Provide a high level of expertise in systems relating to assigned areas. 
+* Respond to requests for detailed data to support report findings.
+* Act as an advisor or thought partner to senior executive by structuring undefined issues for resolution, researching issues, summarizing information.
+* Working with relevant stakeholders to provide the information needed to make sound and timely decisions. 
+* Develop and maintain strong business relationships with internal business partners; including all levels of management, senior leaders, service chiefs, and other data users. 
+* Perform analysis for problem solving and new methodologies by extracting data using tools such as SQL, SAS, MS Access and Crystal Reports; and compiling data from KPHC Clarity, telephony, and workforce management data systems.
+* Deliver high quality results on time. 
+
+QUALIFICATIONS
+* Bachelor’s degree and experience with a healthcare organization strongly preferred.
+* Project management experience preferred.
+* Working knowledge of EPIC (Clarity) data systems preferred.
+* Experience with translating business partner needs into accurate and robust management reports.
+* Working knowledge of the design, construction and use of complex relational databases required.
+* Highly proficient in MS Excel, Access and Visual Basic macros. 
+* Highly proficient with SQL data tools, including SAS and SQL.
+* Strong analytical, organizational, and communication skills required.
+* Good written and verbal communication. 
+* Strong experience in understanding business partner needs, documenting partner needs, documenting detailed report requirements, and the generation of reporting test cases.
+* Ability to express complex analytical and technical information to senior management or to audiences with clinical training. 
+* Must be an independent self-starter.
+
+EOE
+Requirements	QUALIFICATIONS
+* Bachelor’s degree and experience with a healthcare organization strongly preferred.
+* Project management experience preferred.
+* Working knowledge of EPIC (Clarity) data systems preferred.
+* Experience with translating business partner needs into accurate and robust management reports.
+* Working knowledge of the design, construction and use of complex relational databases required.
+* Highly proficient in MS Excel, Access and Visual Basic macros. 
+* Highly proficient with SQL data tools, including SAS and SQL.
+* Strong analytical, organizational, and communication skills required.
+* Good written and verbal communication. 
+* Strong experience in understanding business partner needs, documenting partner needs, documenting detailed report requirements, and the generation of reporting test cases.
+* Ability to express complex analytical and technical information to senior management or to audiences with clinical training. 
+* Must be an independent self-starter.
+
+EOE
+Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities.
+Please view Equal Employment Opportunity Posters provided by OFCCP here.
+

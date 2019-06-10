@@ -1,0 +1,46 @@
+3/1/2017
+
+DadaLabs USA
+
+http://datalabusa.com/careers/
+
+ENTRY LEVEL TECHNICAL DESIGNER/DEVELOPER
+DataLab USA is an award winning database marketing company that focuses on optimizing multichannel marketing solutions. Through the use of data analytics, sourcing, processing, and digital services DataLab USA effectively enables national organization to maximize their direct marketing investments.
+
+The primary purpose of this position is to develop database systems solutions and associated technical services designed to support client business objectives through data analysis, modeling, and management. Candidates must be technically proficient and possess good interpersonal, troubleshooting, and documentation skills.
+
+Job Summary:
+
+Perform daily file import/exporting using SQL Bulk Insert/BCP
+Setup adhoc or automated name/address hygiene processes
+Troubleshoot file import/export issues
+Troubleshoot existing SQL scripts/tasks
+Monitor/Provide quality control for automated processing tasks.
+Additional Duties as assigned by manager
+Job Skills:
+
+Understand SQL
+Windows commands and scripting/automation techniques a plus
+Structured programming skills – object oriented design knowledge is a plus
+Other Skills:
+
+Strong attention to detail
+Clear communication and team work ability
+Strong self-initiative
+Education and Experience:
+
+Bachelors Degree Required
+Direct Marketing experience or knowledge a plus
+Certifications/Technical Training are a plus
+To Apply for this position, please fill out the on-line application form.
+
+DataLab USA is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or national origin.
+
+
+3/1/2017
+
+
+Thank You
+
+The Human Resources Department at DataLab USA has received your resume and has it under review. Should we find that your skills and work experience match the position for which you have applied, we will contact you for an interview. Otherwise, your resume will be kept on file for one year.
+We thank you for your interest in DataLab USA and wish you success in your job search endeavors. We invite you to return to the Careers area of our website.
