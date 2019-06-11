@@ -50,5 +50,5 @@ What experience do you have with SQL data tools, including SAS, Python and Oracl
 I have 18 years of experience in software engineering. One year testing software, 2 years in database design/development, and 15 years in writing software applications. I have used many different programming languages and database management systems with SQL including Oracle, Sybase, MySQL, MS SQL Server, Access, and Excel, and PostgreSQL. I have not used SAS.
 
 Describe the extent of your experience using MS Excel, Access and Visual Basic macros.
-During my software engineering career, I used MS Excel, Access, and Visual Basic macros at various times. I was also required to use Excel for course work related to data analysis in order to complete my AAS degree im HIM and I am currently using it along with Python and Tableau for my DA certificate from MC which I will complete in July (about 30 days).
+During my software engineering career, I used MS Excel, Access, and Visual Basic macros at various times. I was also required to use Excel for course work related to data analysis in order to complete my AAS degree in HIM and I am currently using it along with Python and Tableau for my DA certificate from MC which I will complete in July (about 30 days).
 
