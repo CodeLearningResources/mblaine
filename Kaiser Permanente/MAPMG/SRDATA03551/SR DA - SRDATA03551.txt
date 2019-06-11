@@ -1,0 +1,69 @@
+https://recruiting.ultipro.com/MAP1002MAPMG/JobBoard/9c5b2d47-fac0-4e56-9f06-b9cc2013276d/OpportunityDetail?opportunityId=90136bb4-c219-49aa-b387-beebc57a448d
+
+Kaiser MAPMG (Mid-Atlantic Permente Medical Group)
+Sr Data Analyst
+
+SRDATA03551
+
+Posted: 5/29/19
+
+Full-time
+Regional Office
+Rockville, MD
+
+Job Details
+Description
+
+BASIC FUNCTIONS
+
+This position exists to assist MAPMG MGOS in making strategic data-related decisions by analyzing, manipulating, tracking, internally managing and reporting data. Incumbent provides analytical and consulting support to MAPMG Leadership. This may entail working with our data systems to pull information using SQL, analyzing the information in Excel or other tools and presenting the data to various leaders and staff within the organization.
+
+RESPONSIBILITIES
+
+Provides a high level of expertise in systems relating to assigned areas.
+Responds to requests for detailed data to support report findings.
+Extracts data from various complex databases for report generation.
+Present, advice and communicate data findings to help the organization meet a challenge and/or goal.
+Provide recommendations to senior executives on use of information by structuring undefined issues for resolution, researching issues, and summarizing information, working with relevant stakeholders to provide the executive with the information needed to make sound and timely decisions.
+Develops and maintains strong business relationships with internal business partners, including all levels of management, senior leaders, service chiefs, multiple levels of management, and other data users.
+Performs analysis for problem solving and new methodologies by extracting data using tools such as SQL, SAS, MS Access and Tableau Reports; and compiling data from KPHC Clarity, and workforce management data systems.
+Delivers high quality results on time.
+Design, build, and implement automated processes to enhance or create new data set for use in analyzing trends and patterns, and production of custom reports • Identify recurring and systemic issues.
+Independently design complex reports and work with the team of FOS staff during the period of HEDIS & NCQA reporting.
+
+QUALIFICATIONS
+
+Master’s degree preferred. Bachelor’s degree required and experience with a healthcare organization strongly preferred.
+Project management experience preferred.
+Exceptional skills with manipulating data and finding new ways to increase data collection efficiency.
+Working knowledge of EPIC (Clarity) data systems preferred.
+Experience with translating business partner needs into accurate and robust management reports.
+Working knowledge of the design, construction and use of complex relational databases required.
+Preferred technical qualifications in relational databases, MS Excel, Access and Visual Basic macros, SQL data tools, including SAS and SQL, Crystal Reports, SharePoint, Visual Studio.net, Tableau.
+Strong analytical, organizational, and communication skills required.
+Good written and verbal communication. Strong experience in understanding business partner needs, documenting partner needs, documenting detailed report requirements, and the generation of reporting test cases.
+Ability to express complex analytical and technical information to senior management or to audiences with clinical training.
+Ability to work independently in gathering and analyzing data.
+
+
+
+Qualifications
+Education
+
+Required
+
+	Bachelors or better.
+
+Experience
+
+Required
+
+	Strong analytical, organizational, and communication skills required.
+	Exceptional skills with manipulating data and finding new ways to increase data collection efficiency.
+
+Preferred
+
+	Preferred technical qualifications in relational databases, MS Excel, Access and Visual Basic macros, SQL data tools, including SAS and SQL, Crystal Reports, SharePoint, Visual Studio.net, Tableau.
+
+
+

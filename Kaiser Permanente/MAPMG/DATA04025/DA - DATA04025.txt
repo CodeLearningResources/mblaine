@@ -1,0 +1,54 @@
+https://recruiting.ultipro.com/MAP1002MAPMG/JobBoard/9c5b2d47-fac0-4e56-9f06-b9cc2013276d/OpportunityDetail?opportunityId=5fd6d559-a993-4ad7-8f51-4eccf28278fe
+
+Kaiser MAPMG (Mid-Atlantic Permente Medical Group)
+Data Analyst
+
+DATA04025
+
+Posted: 4/11/19
+
+Full-time
+Regional Office
+Rockville, MD
+
+Job Details
+Description
+
+BASIC FUNCTIONS 
+
+This position exists to assist MAPMG in making strategic data-related decisions by analyzing, manipulating, tracking, internally managing and reporting data. Incumbent provides analytical and consulting support to MAPMG Leadership, under general supervision. This may entail working with our data systems to pull information using Oracle SQL Developer, analyzing the information in Excel or other tools and presenting the data to various leaders and staff within the organization.
+
+RESPONSIBILITIES 
+
+Provides a high level of expertise in systems relating to assigned areas.
+Responds to requests for detailed data to support report findings.
+Acts as an advisor or thought partner to a senior executive by structuring undefined issues for resolution, researching issues, and summarizing information, working with relevant stakeholders to provide the executive with the information needed to make sound and timely decisions.
+Develops and maintains strong business relationships with internal business partners, including all levels of management, senior leaders, service chiefs, multiple levels of management, and other data users.
+Performs analysis for problem solving and new methodologies by extracting data using tools such as Oracle SQL Developer, SAS, Python, MS Access and Crystal Reports; and compiling data from KPHC Clarity, telephony, and workforce management data systems.
+Delivers high quality results on time.
+ 
+
+QUALIFICATIONS 
+
+Bachelor’s degree required. Masters degree and experience with a healthcare organization is strongly preferred.
+Project management experience preferred.
+Working knowledge of EPIC (Clarity) data systems preferred.
+Experience with translating business partner needs into accurate and robust management reports.
+Working knowledge of the design, construction and use of complex relational databases required.
+Highly proficient in MS Excel, Access and Visual Basic macros.
+Highly proficient with SQL data tools, including SAS and Python 
+Strong analytical, organizational, and communication skills required.
+Good written and verbal communication. Strong experience in understanding business partner needs, documenting partner needs, documenting detailed report requirements, and the generation of reporting test cases.
+Ability to express complex analytical and technical information to senior management or to audiences with clinical training.
+Two plus years related experience in data analysis required.
+
+---------------------------
+Do you have a 4 year degree? Yes
+Excluding any internships do you possess two plus years of related experience in data analysis? Yes
+
+What experience do you have with SQL data tools, including SAS, Python and Oracle SQL Developer?
+I have 18 years of experience in software engineering. One year testing software, 2 years in database design/development, and 15 years in writing software applications. I have used many different programming languages and database management systems with SQL including Oracle, Sybase, MySQL, MS SQL Server, Access, and Excel, and PostgreSQL. I have not used SAS.
+
+Describe the extent of your experience using MS Excel, Access and Visual Basic macros.
+During my software engineering career, I used MS Excel, Access, and Visual Basic macros at various times. I was also required to use Excel for course work related to data analysis in order to complete my AAS degree im HIM and I am currently using it along with Python and Tableau for my DA certificate from MC which I will complete in July (about 30 days).
+
