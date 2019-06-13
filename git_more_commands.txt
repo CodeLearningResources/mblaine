@@ -1,0 +1,88 @@
+Git Hub
+
+Step 0: this should have ben completed last week when you signed up on github and created your own repository
+mine was created as https://github.com/pegblaine
+
+I have 7 different repositories now:
+1. advanced_data_analytics
+2. adv_data_analytics
+3. mblaine - from DA 5-week class
+4. ImmersiveData - from the DA boot camp (4-day) class (see subfolder Final_Project for both DC_Properties pythin file and tableau workbook)
+5. mblaine_project_1 - See subfolder Project1 for all files related to DA 5-week project 1 files.
+6. mblaine_week1 - this has the DC_Properties.ipynb file from the DA boot camp (4-day) class.
+7. week_1
+
+
+Since we changed classrooms, I never created a local mblaine git repository for my existing https://github.com/pegblaine user space and mblaine repository
+
+So https://github.com/pegblaine in NOT a REPO but it contains the 7 repositories I've created using the GIT GUI
+
+
+As a first test:
+
+Under C:\Users\GBTC406003ur\Documents (mblaine folder already exists here)
+
+created pegblaine folder
+ran the following 2 git commands to set user name and email address
+
+C:\Users\GBTC406003ur\Documents\pegblaine> git config --global user.name "pegblaine"
+C:\Users\GBTC406003ur\Documents\pegblaine> git config --global user.email mblaine1@montgomerycollege.edu
+
+created pegblaine\adv_data_analytics folder
+
+cd .\adv_data_analytics\
+
+Now ran more git commands to pull existing repo to this local folder
+
+C:\Users\GBTC406003ur\Documents\pegblaine\adv_data_analytics> git init
+Initialized empty Git repository in C:/Users/GBTC406003ur/Documents/pegblaine/adv_data_analytics/.git/
+
+C:\Users\GBTC406003ur\Documents\pegblaine\adv_data_analytics> git remote add origin https://github.com/pegblaine/adv_data_analytics
+
+Check/view remote URL 
+
+C:\Users\GBTC406003ur\Documents\pegblaine\adv_data_analytics> git remote -v
+origin  https://github.com/pegblaine/adv_data_analytics (fetch)
+origin  https://github.com/pegblaine/adv_data_analytics (push)
+
+That looks right so pull repository
+
+C:\Users\GBTC406003ur\Documents\pegblaine\adv_data_analytics> git pull origin master
+remote: Enumerating objects: 4, done.
+remote: Counting objects: 100% (4/4), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), done.
+From https://github.com/pegblaine/adv_data_analytics
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> origin/master
+C:\Users\GBTC406003ur\Documents\pegblaine\adv_data_analytics>
+
+In my local folder, this created a .git folder and downloaded the 2 files that exist in the repo
+
+So this all worked correctly
+
+Now I can create local copies of the other existing repositories that exist on my https://github.com/pegblaine workspace
+
+In the pegblaine folder, add a folder for the each repo, cd to that folder, 
+
+repeat these commands within each folder
+
+git init
+git remote add origin https://github.com/pegblaine/folderName
+git pull origin master
+
+--------------------------------------
+
+After changes made to files in local folder, push them to the correct repository on git hub
+
+
+
+git add .
+git commit -m "revised files"
+git push -u origin master
+
+
+
+
+
